@@ -26,7 +26,7 @@
 
                     @empty
 
-                    Nooooooooooooooooooooooooooooooo Data
+                    Noooooooogggggggggooooooo Data
                     @endforelse
 
 
