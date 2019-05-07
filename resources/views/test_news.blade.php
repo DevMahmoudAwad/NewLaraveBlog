@@ -16,7 +16,7 @@
                    @endforeach
 
                -->
-              
+
 
                @forelse($data as $news)
 
@@ -26,7 +26,7 @@
 
                     @empty
 
-                    No Data
+                    Nooooooooooooooooooooooooooooooo Data
                     @endforelse
 
 
